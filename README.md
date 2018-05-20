@@ -13,8 +13,6 @@ ros-kinetic
 
 ## Install
 
-## Contribution
-
 ## Licence
 
 [MIT](https://github.com/Sadaku1993)
