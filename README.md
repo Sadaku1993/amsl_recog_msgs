@@ -6,11 +6,8 @@ amsl recognition msgs package
 
 ## Description
 
-## Demo
-
-## VS. 
-
 ## Requirement
+ros-kinetic
 
 ## Usage
 
@@ -20,8 +17,8 @@ amsl recognition msgs package
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/Sadaku1993)
 
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[Yudai Sadakuni](https://github.com/Sadaku1993)
